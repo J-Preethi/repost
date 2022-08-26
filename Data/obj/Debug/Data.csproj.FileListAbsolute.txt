@@ -1,0 +1,8 @@
+C:\Users\itcdnet07\source\repos\Data\Data\bin\Debug\Data.exe.config
+C:\Users\itcdnet07\source\repos\Data\Data\bin\Debug\Data.exe
+C:\Users\itcdnet07\source\repos\Data\Data\bin\Debug\Data.pdb
+C:\Users\itcdnet07\source\repos\Data\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\itcdnet07\source\repos\Data\Data\obj\Debug\Data.csproj.SuggestedBindingRedirects.cache
+C:\Users\itcdnet07\source\repos\Data\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\itcdnet07\source\repos\Data\Data\obj\Debug\Data.exe
+C:\Users\itcdnet07\source\repos\Data\Data\obj\Debug\Data.pdb
